@@ -6,6 +6,10 @@
 <a href="https://twitter.com/GooglyBlox"><img src="https://cdn-icons-png.flaticon.com/512/889/889147.png" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;
 
 
+<a href="https://discord.com/users/327559129705218049">
+  <p align="center">
+    <img src="https://lanyard-profile-readme.vercel.app/api/327559129705218049" />
+  </p>
 
 
 **About Me**
@@ -18,3 +22,4 @@ ___
 
 ![googlyblox's github stats](https://github-readme-stats.vercel.app/api?username=googlyblox&theme=midnight-purple&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=googlyblox&layout=compact&theme=midnight-purple&count_private=true)
+
