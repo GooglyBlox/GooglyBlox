@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/googlyblox_improved/"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;
 
 
-<a href="https://discord.com/users/327559129705218049">
+<a href="https://discords.com/bio/p/googlyblox">
   <p align="center">
     <img src="https://lanyard-profile-readme.vercel.app/api/327559129705218049" />
   </p>
