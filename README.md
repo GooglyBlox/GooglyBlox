@@ -19,8 +19,16 @@
 **About Me**
 ___
 - Birthday : October 13th
-- Skills : CSS, Javascript, HTML, and LUA
 - Hobbies: Entomology, Reading, Coding
+  
+```csharp
+       OS  :  Windows 11
+      CPU  :  Intel Core i7-10750H
+      GPU  :  NVIDIA GeForce RTX 2070 Super
+   STATUS  :  rotting away
+Languages  :  CSS, Javascript, HTML, and LUA
+  Discord  :  GooglyBlox_Improved#0001
+```
 ___
 **Stats**
 
