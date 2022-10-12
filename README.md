@@ -16,7 +16,7 @@ ___
 - Hobbies: Entomology, Reading, Coding
   
 ```csharp
-       OS  :  Windows 11
+       OS  :  Windows 10
       CPU  :  Intel Core i7-10750H
       GPU  :  NVIDIA GeForce RTX 2070 Super
    STATUS  :  rotting away
