@@ -24,8 +24,4 @@ Languages  :  CSS, Javascript, HTML, and LUA
   Discord  :  GooglyBlox_Improved#0001
 ```
 ___
-**Stats**
-
-![googlyblox's github stats](https://github-readme-stats.vercel.app/api?username=googlyblox&theme=midnight-purple&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=googlyblox&layout=compact&theme=midnight-purple&count_private=true)
 
