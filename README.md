@@ -6,15 +6,6 @@
 <a href="https://twitter.com/GooglyBlox"><img src="https://cdn-icons-png.flaticon.com/512/889/889147.png" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;
 <a href="https://www.instagram.com/googlyblox_improved/"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;
 
-  
-  
-
-
-
-___
-- Birthday : October 13th
-- Hobbies: Entomology, Reading, Coding
-  
 ```csharp
        OS  :  Windows 10
       CPU  :  Intel Core i7-10750H
