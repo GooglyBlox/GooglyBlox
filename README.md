@@ -1,4 +1,4 @@
-![googlyblox github stats](https://external-preview.redd.it/nkctZQ1-53ch-wW-b_SZIBIa8ZL7Iy9t0Md47gi8bZI.jpg?auto=webp&s=664e6a6a699fbc558ecc3f778c569d1e1af550bb)
+![googlyblox github stats](https://cdn.discordapp.com/banners/327559129705218049/83fc187da6e7f1aa374dc2e0c99b95a7?size=4096)
 
 <center>
 <a href="https://discords.com/bio/p/googlyblox"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;
