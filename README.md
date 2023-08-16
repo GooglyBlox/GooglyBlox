@@ -10,7 +10,7 @@
       CPU  :  Intel Core i7-10750H
       GPU  :  NVIDIA GeForce RTX 2070 Super
    STATUS  :  rotting away
-Languages  :  CSS/Javascript/HTML, LUA, Python
+Languages  :  HTML/CSS/JS, LUA, Python
   Discord  :  goog.l (formerly GooglyBlox_Improved#0001)
 ```
 ___
