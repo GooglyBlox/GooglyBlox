@@ -33,6 +33,7 @@
 - **[Papers Please Press Release Generator](https://github.com/GooglyBlox/PapersPleasePressReleaseGenerator)**: Generate official press releases in the style of "Papers, Please," a game by Lucas Pope. This web application allows you to create, modify, and present press releases like those from the fictional world of Arstotzka.
 
 
+- **[Mangafire Wrapper](https://github.com/GooglyBlox/mangafire-wrapper)**: Mangafire Wrapper is an application designed to enhance the experience of reading Manga online. It provides a streamlined interface for accessing the popular Manga reading website, Mangafire, through a dedicated Windows application.
 
 
 - More to come, stay tuned!
