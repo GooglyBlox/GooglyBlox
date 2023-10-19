@@ -2,7 +2,7 @@
 
 # Hi there, I'm Google 👋
 
-🌴 I'm a 18-year-old programmer from California
+🌴 I'm an 18-year-old programmer from California
 
 ## About Me
 
