@@ -6,11 +6,7 @@
 
 ## About Me
 
-- 💻 Web Development (HTML/CSS/JS/PHP) | Python | LUA/LUAU
-- 🚀 Currently mastering web development & crafting Chrome extensions for fun
-- 🐞 Intrigued by entomology, but don't worry, bugs in code scare me more!
-- 🎮 Coding since I was nine & loving every `for loop` of the journey
-- 🎓 Learning & growing never stops; excited about what's next
+- 💻 HTML/CSS/JS/PHP | Python | LUA/LUAU | Vue.js | Node.js | SQL
 
 ## Connect with Me
 
@@ -36,9 +32,4 @@
 - **[Mangafire Wrapper](https://github.com/GooglyBlox/mangafire-wrapper)**: Mangafire Wrapper is an application designed to enhance the experience of reading Manga online. It provides a streamlined interface for accessing the popular Manga reading website, Mangafire, through a dedicated Windows application.
 
 
-- More to come, stay tuned!
-
-## Fun Fact
-
-In code and life, bugs make things interesting. In entomology, they're a world of wonder, and in coding, they're a puzzle waiting to be solved. Either way, they keep me curious!
-
+- More to come
