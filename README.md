@@ -32,4 +32,6 @@
 
 - **[Free Soundsnap Audios](https://github.com/GooglyBlox/free-soundsnap-audios)**: Fetch audio files from Soundsnap's servers without needing to pay for a subscription.
 
+- **[ClipboardToFileInput](https://github.com/GooglyBlox/ClipboardToFileInput)**: ClipboardToFileInput is a Chrome extension allowing users to paste clipboard content directly into web page file inputs on Google Chrome (a feature Opera has had for a while now).
+
 - More to come
