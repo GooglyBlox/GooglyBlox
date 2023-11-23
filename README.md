@@ -24,8 +24,6 @@
 
 - **[Wizard Quotes API](https://github.com/GooglyBlox/wizard-quotes)**: This is a simple and free JSON API for accessing a curated list of humorous and whimsical wizard-related quotes. Perfect for any fantasy enthusiast, D&D player, or aspiring sorcerer! Additionally, The Wizard Quotes Meme Maker is a web application that utilizes the Wizard Quotes API to generate top text/bottom text style wizard memes. Users can simply refresh the page to generate a new meme each time, with ~18,000 (as of writing) unique possibilities.
 
-- **[Trojanware](https://github.com/GooglyBlox/trojanware)**: Trojanware is a website that I wrote from scratch to pass on some of the knowledge I've accumulated of bypassing school district restrictions in my twelve years of public education. Now that I've graduated, I developed and distributed a lot of my methods to people through Trojanware in the hopes that it'll help them in their high school experience. Designed specifically for my old high school, but is totally applicable for any school in the United States.
-
 - **[Papers Please Press Release Generator](https://github.com/GooglyBlox/PapersPleasePressReleaseGenerator)**: Generate official press releases in the style of "Papers, Please," a game by Lucas Pope. This web application allows you to create, modify, and present press releases like those from the fictional world of Arstotzka.
 
 - **[Mangafire Wrapper](https://github.com/GooglyBlox/mangafire-wrapper)**: Mangafire Wrapper is an application designed to enhance the experience of reading Manga online. It provides a streamlined interface for accessing the popular Manga reading website, Mangafire, through a dedicated Windows application.
@@ -33,5 +31,7 @@
 - **[Free Soundsnap Audios](https://github.com/GooglyBlox/free-soundsnap-audios)**: Fetch audio files from Soundsnap's servers without needing to pay for a subscription.
 
 - **[ClipboardToFileInput](https://github.com/GooglyBlox/ClipboardToFileInput)**: ClipboardToFileInput is a Chrome extension allowing users to paste clipboard content directly into web page file inputs on Google Chrome (a feature Opera has had for a while now).
+
+- **[BetterInstagramEmbeds](https://github.com/GooglyBlox/BetterInstagramEmbeds)**: An Enmity (iOS Discord Client) plugin that replaces all `instagram.com` links you send with `ddinstagram.com`, to fix Instagram embeds.
 
 - More to come
