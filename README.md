@@ -2,12 +2,6 @@
 
 # Hi there, I'm Google 👋
 
-🌴 I'm an 18-year-old programmer from California
-
-## About Me
-
-- 💻 HTML/CSS/JS/PHP | Python | LUA/LUAU | Vue.js | Node.js | SQL
-
 ## Connect with Me
 
 <a href="https://discords.com/bio/p/googlyblox"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="alt text" width="50" height="50"></a>      &nbsp;&nbsp;
