@@ -11,8 +11,6 @@
 
   [![ClipboardToFileInput](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=ClipboardToFileInput&theme=dark&show_owner=true)](https://github.com/GooglyBlox/ClipboardToFileInput)
   [![Wizard Quotes API](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=wizard-quotes&theme=dark&show_owner=true)](https://github.com/GooglyBlox/wizard-quotes)
-  [![groupPost](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=groupPost&theme=dark&show_owner=true)](https://github.com/GooglyBlox/groupPost)
-  [![jehttube](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=jehttube&theme=dark&show_owner=true)](https://github.com/GooglyBlox/jehttube)
   [![Papers Please Press Release Generator](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=PapersPleasePressReleaseGenerator&theme=dark&show_owner=true)](https://github.com/GooglyBlox/PapersPleasePressReleaseGenerator)
   [![Free Soundsnap Audios](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=free-soundsnap-audios&theme=dark&show_owner=true)](https://github.com/GooglyBlox/free-soundsnap-audios)
   [![BetterInstagramEmbeds](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=BetterInstagramEmbeds&theme=dark&show_owner=true)](https://github.com/GooglyBlox/BetterInstagramEmbeds)
