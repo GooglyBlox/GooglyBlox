@@ -6,11 +6,3 @@
 <a href="https://www.instagram.com/googlyblox_improved/"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="alt text" width="50" height="50"></a>
 
 <br />
-
-## Some Cool Projects
-
-  [![ClipboardToFileInput](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=ClipboardToFileInput&theme=dark&show_owner=true)](https://github.com/GooglyBlox/ClipboardToFileInput)
-  [![Wizard Quotes API](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=wizard-quotes&theme=dark&show_owner=true)](https://github.com/GooglyBlox/wizard-quotes)
-  [![Papers Please Press Release Generator](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=PapersPleasePressReleaseGenerator&theme=dark&show_owner=true)](https://github.com/GooglyBlox/PapersPleasePressReleaseGenerator)
-  [![Free Soundsnap Audios](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=free-soundsnap-audios&theme=dark&show_owner=true)](https://github.com/GooglyBlox/free-soundsnap-audios)
-  [![BetterInstagramEmbeds](https://github-readme-stats.vercel.app/api/pin/?username=googlyblox&repo=BetterInstagramEmbeds&theme=dark&show_owner=true)](https://github.com/GooglyBlox/BetterInstagramEmbeds)
