@@ -1,8 +1,54 @@
-![Banner Image](https://cdn.discordapp.com/banners/327559129705218049/83fc187da6e7f1aa374dc2e0c99b95a7?size=4096)
+<img align="right" src="assets/banner.png" width="40%" height="40%" />
 
-# Hi there, I'm Google 👋
-<a href="https://discords.com/bio/p/googlyblox"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="alt text" width="50" height="50"></a>      &nbsp;&nbsp;
-<a href="https://twitter.com/GooglyBlox"><img src="https://cdn-icons-png.flaticon.com/512/889/889147.png" alt="alt text" width="50" height="50"></a>      &nbsp;&nbsp;
-<a href="https://www.instagram.com/googlyblox_improved/"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="alt text" width="50" height="50"></a>
+## hello, im google!
+Full-Stack Developer focused on open-source projects.
+<br/>Spiders are the only real web developers, just to let everyone know
 
-<br />
+### Languages
+[![Python Badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org/)
+[![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
+
+### Web-stack
+[![React.js badge](https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js Badge](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Vue.js Badge](https://img.shields.io/badge/vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
+[![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://wikipedia.org/wiki/CSS)
+[![PHP Badge](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![SASS Badge](https://img.shields.io/badge/sass-hotpink.svg?style=flat&logo=SASS&logoColor=white)](https://sass-lang.com/)
+[![TailwindCSS Badge](https://img.shields.io/badge/tailwind_css-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+### Backend technologies
+[![Node.js Badge](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Deno Badge](https://img.shields.io/badge/deno-000000?style=flat&logo=deno&logoColor=white)](https://deno.com/)
+[![Bun Badge](https://img.shields.io/badge/bun-%23000000.svg?style=flat&logo=bun&logoColor=white)](https://bun.sh/)
+[![Docker Badge](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Nginx Badge](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/)
+
+### Databases
+[![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL Badge](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+### General
+[![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![GitHub Actions Badge](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Google Cloud Badge](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Windows Server Badge](https://img.shields.io/badge/windows%20server-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
+<details>
+  <summary>Learning</summary>
+  
+  [![AWS Badge](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+  [![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+  [![MongoDB Badge](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+</details>
+
+## 📫 Contact
+- you can email me at [cemcimyildiz@gmail.com](mailto:cemcimyildiz@gmail.com)
+- dm me on [Instagram](https://www.instagram.com/googlyblox_improved/),
+- or you can add my discord, [goog.l](https://discords.com/bio/p/googlyblox).
