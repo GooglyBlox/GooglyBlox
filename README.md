@@ -4,6 +4,9 @@
 Full-Stack Developer focused on open-source projects.
 <br/>Spiders are the only real web developers, just to let everyone know
 
+
+## 💼 Experience
+
 ### Languages
 [![Python Badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org/)
