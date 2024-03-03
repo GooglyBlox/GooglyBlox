@@ -12,6 +12,7 @@ Full-Stack Developer focused on open-source projects.
 [![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org/)
 [![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
+[![PHP Badge](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 
 ### Web-stack
 [![React.js badge](https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -19,7 +20,6 @@ Full-Stack Developer focused on open-source projects.
 [![Vue.js Badge](https://img.shields.io/badge/vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![PHP Badge](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![SASS Badge](https://img.shields.io/badge/sass-hotpink.svg?style=flat&logo=SASS&logoColor=white)](https://sass-lang.com/)
 [![TailwindCSS Badge](https://img.shields.io/badge/tailwind_css-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
