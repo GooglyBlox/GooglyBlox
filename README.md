@@ -52,6 +52,6 @@ Full-Stack Developer focused on open-source projects.
 </details>
 
 ## 📫 Contact
-- You can email me at [cemcimyildiz@gmail.com](mailto:cemcimyildiz@gmail.com),
 - dm me on [Instagram](https://www.instagram.com/googlyblox_improved/),
+- dm me on [Twitter](https://twitter.com/GooglyBlox),
 - or you can add my discord, [goog.l](https://discords.com/bio/p/googlyblox).
