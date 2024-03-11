@@ -34,6 +34,7 @@ Full-Stack Developer focused on open-source projects.
 ### Databases
 [![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL Badge](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Firestore Badge](https://img.shields.io/badge/firestore-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/docs/firestore)
 
 ### General
 [![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
@@ -49,6 +50,7 @@ Full-Stack Developer focused on open-source projects.
   [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
   [![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
   [![MongoDB Badge](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+  [![Firebase Badge](https://img.shields.io/badge/firebase-ffca28.svg?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
 </details>
 
 ## 📫 Contact
