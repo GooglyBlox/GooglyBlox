@@ -18,6 +18,7 @@ Full-Stack Developer focused on open-source projects.
 [![React.js badge](https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Next.js Badge](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Vue.js Badge](https://img.shields.io/badge/vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![Electron Badge](https://img.shields.io/badge/electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
