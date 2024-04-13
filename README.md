@@ -2,7 +2,7 @@
 
 ## hello, im google!
 Full-Stack Developer focused on open-source projects.
-<br/>Spiders are the only real web developers, just to let everyone know
+<br/>spiders are the only real web developers, I am naught but a fraud
 
 
 ## 💼 Experience
