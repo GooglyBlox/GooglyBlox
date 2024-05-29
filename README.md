@@ -23,6 +23,9 @@ Full-Stack Developer focused on open-source projects.
 [![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![SASS Badge](https://img.shields.io/badge/sass-hotpink.svg?style=flat&logo=SASS&logoColor=white)](https://sass-lang.com/)
 [![TailwindCSS Badge](https://img.shields.io/badge/tailwind_css-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![jQuery Badge](https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
+[![Bootstrap Badge](https://img.shields.io/badge/bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![MUI Badge](https://img.shields.io/badge/mui-007FFF?style=flat&logo=mui&logoColor=white)](https://mui.com/)
 
 ### Backend technologies
 [![Node.js Badge](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -31,6 +34,11 @@ Full-Stack Developer focused on open-source projects.
 [![Docker Badge](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Nginx Badge](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![Electron Badge](https://img.shields.io/badge/electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
+[![Express.js Badge](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+
+### Tooling
+[![Babel Badge](https://img.shields.io/badge/babel-F9DC3E?style=flat&logo=babel&logoColor=black)](https://babeljs.io/)
+[![Webpack Badge](https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)](https://webpack.js.org/)
 
 ### Databases
 [![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
