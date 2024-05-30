@@ -4,6 +4,12 @@
 Full-Stack Developer focused on open-source projects.
 <br/>spiders are the only real web developers, I am naught but a fraud
 
+  <tr>
+    <td align="center" colspan="2">
+      <p><i>If you appreciate what I do and wish to support my work, you can consider buying me a coffee ☕</i></p>
+      <a href="https://buymeacoffee.com/googl" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+    </td>
+  </tr>
 
 ## 💼 Experience
 
