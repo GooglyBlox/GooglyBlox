@@ -1,5 +1,3 @@
-<img align="right" src="assets/banner.png" width="40%" height="40%" />
-
 ## hello, im google!
 Full-Stack Developer focused on open-source projects.
 <br/>spiders are the only real web developers, I am naught but a fraud
