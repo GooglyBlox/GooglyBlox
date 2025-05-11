@@ -87,6 +87,5 @@
 ---
 
 ## Get In Touch
-- **Instagram:** [@googlyblox_improved](https://www.instagram.com/googlyblox_improved/)
 - **Twitter / X:** [@GooglyBlox](https://twitter.com/GooglyBlox)
 - **Discord:** `goog.l` ([User Profile](https://discords.com/bio/p/googlyblox))
