@@ -33,6 +33,7 @@
       <a href="https://wikipedia.org/wiki/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge"/></a> 
       <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white" alt="PHP Badge"/></a> 
       <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/></a>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white" alt="C# Badge"/></a>
       <br/><br/>
       <h3>Frontend & Styling</h3>
       <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React.js badge"/></a> 
