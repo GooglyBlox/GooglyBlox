@@ -18,7 +18,7 @@
   </a>
 </div>
 
-
+<!--
 ---
 
 ## My Tech Stack
@@ -27,7 +27,6 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Languages</h3>
-      <!-- Using HTML <a> and <img> tags for badges inside the table -->
       <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/></a> 
       <a href="https://www.lua.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua Badge"/></a> 
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript Badge"/></a> 
@@ -85,9 +84,9 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge"/></a> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift Badge"/></a>
 </details>
-
 ---
 
 ## Get In Touch
 - **Twitter / X:** [@GooglyBlox](https://twitter.com/GooglyBlox)
 - **Discord:** `goog.l` ([User Profile](https://discords.com/bio/p/googlyblox))
+-->
