@@ -4,6 +4,8 @@
 
 **Full-Stack Developer focused on open-source projects.**
 
+<img src="assets/spider-white.png" alt="Not A Spider" width="60" height="60" align="right" style="margin-left: 20px;">
+
 *spiders are the only real web developers, I am naught but a fraud*
 
 </div>
@@ -14,7 +16,7 @@
   <i>If you find my work helpful and wish to show support:</i>
   <br/><br/>
   <a href="https://ko-fi.com/googlyblox" target="_blank" rel="noopener noreferrer">
-    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Support me on Ko-fi" style="height: 41px !important; width: 174px !important; box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Support me on Ko-fi" style="height: 41px !important; width: 174px !important;">
   </a>
 </div>
 
